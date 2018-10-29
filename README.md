@@ -1,2 +1,2 @@
-# CalculadoraBlueJ
-Calculadora desenvolvida no BlueJ | 
+# Calculator BlueJ
+Calculator developed at BlueJ for a university job
